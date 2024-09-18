@@ -11,9 +11,9 @@ My journey in computer science has ignited a passion for cybersecurity and cloud
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|Preconfigured Rules w/ Lambda                  |
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+|Configuring AWS Lambda                         |<a href="https://google.com](https://github.com/jshinobiii/Preconfigured-Rules-w-Lambda-Lab/blob/main/README.md)">Preconfigured Rules w/Lambda Lab</a>
+| SIEM Implementation and Log Analysis          |
+| Network Traffic Monitoring and Attack Detection | 
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -71,7 +71,7 @@ My journey in computer science has ignited a passion for cybersecurity and cloud
 </div>
 
 ## Projects
+- <a href="https://google.com](https://github.com/jshinobiii/Preconfigured-Rules-w-Lambda-Lab/blob/main/README.md)">Preconfigured Rules w/Lambda Lab</a>
 - Detection Lab
 - SOC Automation Project
-- Preconfigured Rules w/ Lambda
 - SOHO network configuration
