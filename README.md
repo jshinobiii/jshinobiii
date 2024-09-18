@@ -5,7 +5,7 @@ I am a recent Per Scholas graduate with a profound interest in technology and a 
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity/cloud, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, or a Jr Cloud security engineer.
+My journey in computer science has ignited a passion for cybersecurity and cloud technologies. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or as a Junior Cloud Security Engineer.
 
 ## Skills
 
