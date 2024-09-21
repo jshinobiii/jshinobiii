@@ -12,6 +12,7 @@ My journey in computer science has ignited a passion for cybersecurity and cloud
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |Configuring AWS Lambda                         |<a href="https://github.com/jshinobiii/Preconfigured-Rules-w-Lambda-Lab/blob/main/README.md">Preconfigured Rules w/Lambda Lab</a>
+|SOC Challenge 1-Logical Diagram                |<a href="https://github.com/jshinobiii/SOC-Challenge-1--Logical-Diagram/tree/main/README.md">Logical Diagram Challenge</a>
 | SIEM Implementation and Log Analysis          |
 | Network Traffic Monitoring and Attack Detection | 
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
