@@ -13,7 +13,7 @@ My journey in computer science has ignited a passion for cybersecurity and cloud
 |-----------------------------------------------|----------------------------|
 |Configuring AWS Lambda                         |<a href="https://github.com/jshinobiii/Preconfigured-Rules-w-Lambda-Lab/blob/main/README.md">Preconfigured Rules w/Lambda Lab</a>
 |SOC Challenge 1-Logical Diagram                |<a href="https://github.com/jshinobiii/SOC-Challenge-1--Logical-Diagram/tree/main/README.md">SOC Challenge 1</a>
-|SOC Challenge 2-Installing/Configuring elasticsearch|<a href="https://github.com/jshinobiii/SOC-Challenge-2--Configuring-elasticsearch-vultr/edit/main/README.md">SOC Challenge 2</a>
+|SOC Challenge 2-Installing/Configuring elasticsearch|<a href="https://github.com/jshinobiii/SOC-Challenge-2--Configuring-elasticsearch-vultr/blob/main/README.md">SOC Challenge 2</a>
 | SIEM Implementation and Log Analysis          |
 | Network Traffic Monitoring and Attack Detection | 
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
