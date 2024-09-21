@@ -1,7 +1,7 @@
 # Hello, I'm Jamal.
 <a href="https://www.linkedin.com/in/jamal-s-85598823a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent Per Scholas graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a recent Per Scholas graduate with an interest in technology and a dedication to solving complex problems.
 
 ## Objective
 
